@@ -1,0 +1,142 @@
+[
+  {
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "pricePerDay": 20,
+    "duePerDay": 5,
+    "isAvailable": true
+  },
+  {
+    "title": "Rich Dad Poor Dad",
+    "author": "Robert Kiyosaki",
+    "pricePerDay": 18,
+    "duePerDay": 4,
+    "isAvailable": true
+  },
+  {
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "pricePerDay": 15,
+    "duePerDay": 3,
+    "isAvailable": true
+  },
+  {
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "pricePerDay": 25,
+    "duePerDay": 6,
+    "isAvailable": true
+  },
+  {
+    "title": "Think and Grow Rich",
+    "author": "Napoleon Hill",
+    "pricePerDay": 17,
+    "duePerDay": 4,
+    "isAvailable": true
+  },
+  {
+    "title": "JavaScript: The Good Parts",
+    "author": "Douglas Crockford",
+    "pricePerDay": 22,
+    "duePerDay": 5,
+    "isAvailable": true
+  },
+  {
+    "title": "Deep Work",
+    "author": "Cal Newport",
+    "pricePerDay": 19,
+    "duePerDay": 4,
+    "isAvailable": true
+  },
+  {
+    "title": "You Don't Know JS",
+    "author": "Kyle Simpson",
+    "pricePerDay": 24,
+    "duePerDay": 5,
+    "isAvailable": true
+  },
+  {
+    "title": "The Pragmatic Programmer",
+    "author": "Andrew Hunt",
+    "pricePerDay": 26,
+    "duePerDay": 6,
+    "isAvailable": true
+  },
+  {
+    "title": "Eloquent JavaScript",
+    "author": "Marijn Haverbeke",
+    "pricePerDay": 21,
+    "duePerDay": 5,
+    "isAvailable": true
+  },
+  {
+    "title": "Harry Potter and the Sorcerer's Stone",
+    "author": "J.K. Rowling",
+    "pricePerDay": 16,
+    "duePerDay": 3,
+    "isAvailable": true
+  },
+  {
+    "title": "The Hobbit",
+    "author": "J.R.R. Tolkien",
+    "pricePerDay": 18,
+    "duePerDay": 4,
+    "isAvailable": true
+  },
+  {
+    "title": "The Psychology of Money",
+    "author": "Morgan Housel",
+    "pricePerDay": 20,
+    "duePerDay": 5,
+    "isAvailable": true
+  },
+  {
+    "title": "Zero to One",
+    "author": "Peter Thiel",
+    "pricePerDay": 23,
+    "duePerDay": 5,
+    "isAvailable": true
+  },
+  {
+    "title": "Ikigai",
+    "author": "Francesc Miralles",
+    "pricePerDay": 14,
+    "duePerDay": 3,
+    "isAvailable": true
+  },
+  {
+    "title": "The Lean Startup",
+    "author": "Eric Ries",
+    "pricePerDay": 22,
+    "duePerDay": 5,
+    "isAvailable": true
+  },
+  {
+    "title": "Node.js Design Patterns",
+    "author": "Mario Casciaro",
+    "pricePerDay": 28,
+    "duePerDay": 7,
+    "isAvailable": true
+  },
+  {
+    "title": "React Explained",
+    "author": "Zac Gordon",
+    "pricePerDay": 24,
+    "duePerDay": 5,
+    "isAvailable": true
+  },
+  {
+    "title": "MongoDB Basics",
+    "author": "Peter Membrey",
+    "pricePerDay": 19,
+    "duePerDay": 4,
+    "isAvailable": true
+  },
+  {
+    "title": "Cracking the Coding Interview",
+    "author": "Gayle Laakmann McDowell",
+    "pricePerDay": 30,
+    "duePerDay": 8,
+    "isAvailable": true
+  }
+]
